@@ -1,5 +1,5 @@
-https://github.com/kelaberetiv/TagUI
+instalar o TagUI através do link https://github.com/kelaberetiv/TagUI
 
-https://2captcha.com?from=1882668
+criar conta para passar na proteção do ReCaptcha https://2captcha.com?from=1882668
 
-https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo
+instalar o plugin no Google Chrome https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo
