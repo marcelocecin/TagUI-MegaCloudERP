@@ -4,4 +4,8 @@ criar conta para passar na proteção do ReCaptcha https://2captcha.com?from=188
 
 instalar o plugin no Google Chrome https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo
 
+configurar o plugin no Google Chrome
+
+<img width="301" alt="" src="https://user-images.githubusercontent.com/2955762/116778802-93dd7c80-aa4a-11eb-88b8-8050cf3db88f.png">
+
 rodar o script `mega_cloud_login.tag`
